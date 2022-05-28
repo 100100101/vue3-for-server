@@ -1,0 +1,13 @@
+{
+  "name": "vue3-for-server",
+  "version": "1.0.0",
+  "description": "Use architecture like Vue 3 on server.",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.36"
+  }
+}
