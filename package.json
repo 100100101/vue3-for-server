@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vue": "^3.2.36"
+    "jsdom": "^20.0.0",
+    "vue": "^3.2.37"
   }
 }
