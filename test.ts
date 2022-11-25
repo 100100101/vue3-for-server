@@ -2,7 +2,6 @@ import { createApp, defineComponent, onMounted } from './'
 
 import { watchProcessDeath } from 'watch-process-death'
 import { renderToString } from 'vue/server-renderer'
-console.log('Vue2:', createApp)
 
 const app1 = createApp(
     defineComponent({
